@@ -1,0 +1,31 @@
+
+
+body {
+  background-color: lightblue;
+}
+
+h3 {
+  color: navy;
+  text-align: center;
+}
+
+.topnav{
+  display: block;
+  padding: 12px;
+  background-color: #dddddd;
+  text-align: center;
+}
+
+#sith{
+  color: red;
+}
+
+#republic{
+  color:green;
+}
+
+img{
+  padding-left: 520px;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
